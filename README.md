@@ -11,7 +11,6 @@ this will send OSC messages to the port 57120 in localhost (for example to handl
 ## command-line help
 `python3 queryAPI.py -h`
 
-## will output:
 
 ```
 usage: queryAPI.py [-h] [--start YYY-mm-dd] [--end YYY-mm-dd]
