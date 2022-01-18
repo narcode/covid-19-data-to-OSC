@@ -1,4 +1,6 @@
-#
+# Query Covid-19 data and send OSC messages from it
+
+## install dependencies
 
 `pip3 install -r requirements.txt`
 
